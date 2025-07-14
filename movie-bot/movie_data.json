@@ -1,0 +1,124 @@
+{
+  "movies": [
+    {
+      "name": "Interstellar",
+      "facts": [
+        "Directed by Christopher Nolan.",
+        "The film's black hole visualization was so accurate it resulted in scientific papers.",
+        "Hans Zimmer composed the score before reading the script."
+      ],
+      "theaters": [
+        {
+          "name": "PVR Velachery",
+          "showtimes": ["10:00 AM", "2:00 PM", "6:00 PM"],
+          "total_seats": 10
+        },
+        {
+          "name": "AGS Cinemas OMR",
+          "showtimes": ["9:30 AM", "1:30 PM", "5:30 PM"],
+          "total_seats": 10
+        }
+      ]
+    },
+    {
+      "name": "Oppenheimer",
+      "facts": [
+        "Directed by Christopher Nolan and released in 2023.",
+        "Based on the biography 'American Prometheus' about J. Robert Oppenheimer.",
+        "Cillian Murphy stars as Oppenheimer."
+      ],
+      "theaters": [
+        {
+          "name": "INOX City Center",
+          "showtimes": ["11:00 AM", "3:00 PM", "7:00 PM"],
+          "total_seats": 10
+        },
+        {
+          "name": "PVR Phoenix Marketcity",
+          "showtimes": ["12:00 PM", "4:00 PM", "8:00 PM"],
+          "total_seats": 10
+        }
+      ]
+    },
+    {
+      "name": "Leo",
+      "facts": [
+        "A 2023 Tamil action thriller starring Vijay.",
+        "Directed by Lokesh Kanagaraj and part of the Lokesh Cinematic Universe.",
+        "The film's music was composed by Anirudh Ravichander."
+      ],
+      "theaters": [
+        {
+          "name": "Rohini Silver Screens",
+          "showtimes": ["10:15 AM", "1:45 PM", "6:15 PM"],
+          "total_seats": 10
+        },
+        {
+          "name": "PVR Ampa Skywalk",
+          "showtimes": ["11:00 AM", "2:30 PM", "7:00 PM"],
+          "total_seats": 10
+        }
+      ]
+    },
+    {
+      "name": "Jailer",
+      "facts": [
+        "A 2023 Tamil action-comedy film starring Rajinikanth.",
+        "Directed by Nelson Dilipkumar.",
+        "The film was a major box office hit."
+      ],
+      "theaters": [
+        {
+          "name": "Sathyam Cinemas",
+          "showtimes": ["9:00 AM", "12:30 PM", "4:00 PM", "8:00 PM"],
+          "total_seats": 10
+        },
+        {
+          "name": "Luxe Cinemas",
+          "showtimes": ["10:45 AM", "3:15 PM", "7:45 PM"],
+          "total_seats": 10
+        }
+      ]
+    },
+    {
+      "name": "Aavesham",
+      "facts": [
+        "A 2024 Malayalam action-comedy film starring Fahadh Faasil.",
+        "Directed by Jithu Madhavan.",
+        "The film was praised for its humor and performances."
+      ],
+      "theaters": [
+        {
+          "name": "PVR Lulu Mall Kochi",
+          "showtimes": ["9:00 AM", "1:00 PM", "5:00 PM"],
+          "total_seats": 10
+        },
+        {
+          "name": "Cinepolis Centre Square Mall",
+          "showtimes": ["10:30 AM", "2:30 PM", "6:30 PM"],
+          "total_seats": 10
+        }
+      ]
+    },
+    {
+      "name": "Manjummel Boys",
+      "facts": [
+        "A 2024 Malayalam survival thriller inspired by true events.",
+        "Directed by Chidambaram.",
+        "The film became one of the highest-grossing Malayalam films of all time."
+      ],
+      "theaters": [
+        {
+          "name": "Carnival Cinemas Angamaly",
+          "showtimes": ["11:00 AM", "3:00 PM", "7:00 PM"],
+          "total_seats": 10
+        },
+        {
+          "name": "PVR Oberon Mall",
+          "showtimes": ["12:00 PM", "4:00 PM", "8:00 PM"],
+          "total_seats": 10
+        }
+      ]
+    }
+  ]
+}

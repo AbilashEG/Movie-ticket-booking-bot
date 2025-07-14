@@ -1,0 +1,71 @@
+body {
+  background: linear-gradient(135deg, #ece9e6, #ffffff);
+}
+
+.chat-container {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 20px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.chat-box {
+  height: 400px;
+  overflow-y: auto;
+  padding: 15px;
+  background: #ffffffd9;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+
+.bot-message, .user-message {
+  padding: 10px 15px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+  max-width: 75%;
+  word-wrap: break-word;
+}
+
+.bot-message {
+  background: #e9f5ff;
+  border-radius: 15px 15px 15px 0;
+}
+
+.user-message {
+  background: #0d6efd;
+  color: white;
+  border-radius: 15px 15px 0 15px;
+  margin-left: auto;
+}
+
+.seat {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #e0e0e0;
+  user-select: none;
+}
+
+.seat:hover {
+  background-color: #0d6efd;
+  color: white;
+}
+
+.seat.selected {
+  background-color: #0d6efd;
+  color: white;
+}
+
+.seat.booked {
+  background-color: #999;
+  cursor: not-allowed;
+}

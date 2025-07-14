@@ -23,7 +23,8 @@ An intelligent conversational bot that helps users book movie tickets via chat! 
 ## 📸 Screenshots
 
 ><img width="1152" height="472" alt="image" src="https://github.com/user-attachments/assets/5b12ea86-48bc-40f3-ab84-d5c6466a719a" />
-<img width="1152" height="472" alt="image" src="https://github.com/user-attachments/assets/f8942629-8187-42c6-b8ec-4babd4e44b4d" />
+<img width="1859" height="981" alt="image" src="https://github.com/user-attachments/assets/548ab2da-53f1-4307-92d0-44602cf7e7ea" />
+
 
 
 
